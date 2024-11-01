@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.7122046e.css",
+    "main.css": "/static/css/main.98ca82e9.css",
     "main.js": "/main.js",
-    "233.js": "/233.js",
+    "16.js": "/16.js",
     "sorceress.png": "/sorceress..png",
     "vitalik.png": "/vitalik..png",
     "slime.png": "/slime..png",
@@ -64,9 +64,9 @@
     "style.css": "/style.css"
   },
   "entrypoints": [
-    "233.js",
+    "16.js",
     "main.css",
     "main.js",
-    "static/css/main.7122046e.css"
+    "static/css/main.98ca82e9.css"
   ]
 }
