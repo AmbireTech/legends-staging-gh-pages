@@ -2,7 +2,7 @@
   "files": {
     "main.css": "/static/css/main.bff3dd11.css",
     "main.js": "/main.js",
-    "579.js": "/579.js",
+    "786.js": "/786.js",
     "background-xl@x2.jpg": "/background-xl@x2..jpg",
     "shapeshifter.png": "/shapeshifter..png",
     "sorceress.png": "/sorceress..png",
@@ -88,10 +88,10 @@
     "main.css.map": "/main.css.map",
     "main.js.map": "/main.js.map",
     "main.bff3dd11.css.map": "/static/css/main.bff3dd11.css.map",
-    "579.js.map": "/579.js.map"
+    "786.js.map": "/786.js.map"
   },
   "entrypoints": [
-    "579.js",
+    "786.js",
     "main.css",
     "main.js",
     "static/css/main.bff3dd11.css"
