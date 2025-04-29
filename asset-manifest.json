@@ -2,7 +2,7 @@
   "files": {
     "main.css": "/static/css/main.bff3dd11.css",
     "main.js": "/main.js",
-    "62.js": "/62.js",
+    "991.js": "/991.js",
     "shapeshifter.png": "/shapeshifter..png",
     "blurred-lights-wide.png": "/blurred-lights-wide..png",
     "sorceress.png": "/sorceress..png",
@@ -77,10 +77,10 @@
     "main.css.map": "/main.css.map",
     "main.js.map": "/main.js.map",
     "main.bff3dd11.css.map": "/static/css/main.bff3dd11.css.map",
-    "62.js.map": "/62.js.map"
+    "991.js.map": "/991.js.map"
   },
   "entrypoints": [
-    "62.js",
+    "991.js",
     "main.css",
     "main.js",
     "static/css/main.bff3dd11.css"
