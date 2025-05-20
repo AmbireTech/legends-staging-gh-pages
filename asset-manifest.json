@@ -2,7 +2,7 @@
   "files": {
     "main.css": "/static/css/main.b263c317.css",
     "main.js": "/main.js",
-    "991.js": "/991.js",
+    "479.js": "/479.js",
     "shapeshifter.png": "/shapeshifter..png",
     "blurred-lights-wide.png": "/blurred-lights-wide..png",
     "sorceress.png": "/sorceress..png",
@@ -12,6 +12,7 @@
     "meta.png": "/meta.png",
     "Smoke-and-lights.png": "/Smoke-and-lights..png",
     "orc-warrior.png": "/orc-warrior..png",
+    "wallet-coin.png": "/wallet-coin..png",
     "spinner.png": "/spinner..png",
     "Poppins_100Thin_Italic.ttf": "/Poppins_100Thin_Italic..ttf",
     "Poppins_200ExtraLight_Italic.ttf": "/Poppins_200ExtraLight_Italic..ttf",
@@ -78,10 +79,10 @@
     "main.css.map": "/main.css.map",
     "main.js.map": "/main.js.map",
     "main.b263c317.css.map": "/static/css/main.b263c317.css.map",
-    "991.js.map": "/991.js.map"
+    "479.js.map": "/479.js.map"
   },
   "entrypoints": [
-    "991.js",
+    "479.js",
     "main.css",
     "main.js",
     "static/css/main.b263c317.css"
