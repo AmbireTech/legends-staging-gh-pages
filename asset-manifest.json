@@ -2,7 +2,7 @@
   "files": {
     "main.css": "/static/css/main.b263c317.css",
     "main.js": "/main.js",
-    "212.js": "/212.js",
+    "861.js": "/861.js",
     "yello.png": "/yello..png",
     "green.png": "/green..png",
     "bearUp.png": "/bearUp..png",
@@ -80,10 +80,10 @@
     "main.css.map": "/main.css.map",
     "main.js.map": "/main.js.map",
     "main.b263c317.css.map": "/static/css/main.b263c317.css.map",
-    "212.js.map": "/212.js.map"
+    "861.js.map": "/861.js.map"
   },
   "entrypoints": [
-    "212.js",
+    "861.js",
     "main.css",
     "main.js",
     "static/css/main.b263c317.css"
