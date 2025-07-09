@@ -2,7 +2,7 @@
   "files": {
     "main.css": "/static/css/main.b263c317.css",
     "main.js": "/main.js",
-    "861.js": "/861.js",
+    "46.js": "/46.js",
     "yello.png": "/yello..png",
     "blurred-lights-wide.png": "/blurred-lights-wide..png",
     "green.png": "/green..png",
@@ -72,6 +72,7 @@
     "star.png": "/star..png",
     "favicon.ico": "/favicon.ico",
     "favicon-96x96.png": "/favicon-96x96.png",
+    "governance.png": "/governance..png",
     "index.html": "/index.html",
     "pointer.png": "/pointer..png",
     "images/pointer.png": "/images/pointer.png",
@@ -80,10 +81,10 @@
     "main.css.map": "/main.css.map",
     "main.js.map": "/main.js.map",
     "main.b263c317.css.map": "/static/css/main.b263c317.css.map",
-    "861.js.map": "/861.js.map"
+    "46.js.map": "/46.js.map"
   },
   "entrypoints": [
-    "861.js",
+    "46.js",
     "main.css",
     "main.js",
     "static/css/main.b263c317.css"
