@@ -2,7 +2,7 @@
   "files": {
     "main.css": "/static/css/main.b263c317.css",
     "main.js": "/main.js",
-    "46.js": "/46.js",
+    "625.js": "/625.js",
     "yello.png": "/yello..png",
     "blurred-lights-wide.png": "/blurred-lights-wide..png",
     "green.png": "/green..png",
@@ -81,10 +81,10 @@
     "main.css.map": "/main.css.map",
     "main.js.map": "/main.js.map",
     "main.b263c317.css.map": "/static/css/main.b263c317.css.map",
-    "46.js.map": "/46.js.map"
+    "625.js.map": "/625.js.map"
   },
   "entrypoints": [
-    "46.js",
+    "625.js",
     "main.css",
     "main.js",
     "static/css/main.b263c317.css"
