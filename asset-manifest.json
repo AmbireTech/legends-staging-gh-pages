@@ -2,9 +2,8 @@
   "files": {
     "main.css": "/static/css/main.b263c317.css",
     "main.js": "/main.js",
-    "30.js": "/30.js",
+    "881.js": "/881.js",
     "yello.png": "/yello..png",
-    "blurred-lights-wide.png": "/blurred-lights-wide..png",
     "green.png": "/green..png",
     "bearUp.png": "/bearUp..png",
     "astroCat.png": "/astroCat..png",
@@ -54,6 +53,8 @@
     "favicon.svg": "/favicon.svg",
     "smoke-and-lights-background.png": "/smoke-and-lights-background..png",
     "unknown-character.png": "/unknown-character..png",
+    "blurred-lights-wide.png": "/blurred-lights-wide..png",
+    "substract-gradient.png": "/substract-gradient..png",
     "rewards-cover-image.png": "/rewards-cover-image..png",
     "ambire-connect-icon.png": "/ambire-connect-icon.png",
     "FunnelDisplay-Regular.ttf": "/FunnelDisplay-Regular..ttf",
@@ -68,6 +69,7 @@
     "fonts/FunnelDisplay-Bold.ttf": "/fonts/FunnelDisplay-Bold.ttf",
     "FunnelDisplay-ExtraBold.ttf": "/FunnelDisplay-ExtraBold..ttf",
     "fonts/FunnelDisplay-ExtraBold.ttf": "/fonts/FunnelDisplay-ExtraBold.ttf",
+    "starsBackground.png": "/starsBackground..png",
     "rewards-cover.png": "/rewards-cover..png",
     "images/logo.png": "/images/logo.png",
     "star.png": "/star..png",
@@ -76,16 +78,16 @@
     "index.html": "/index.html",
     "pointer.png": "/pointer..png",
     "images/pointer.png": "/images/pointer.png",
-    "starsBackground.png": "/starsBackground..png",
+    "substract.png": "/substract..png",
     "ambire-logo-small.png": "/ambire-logo-small..png",
     "style.css": "/style.css",
     "main.css.map": "/main.css.map",
     "main.js.map": "/main.js.map",
     "main.b263c317.css.map": "/static/css/main.b263c317.css.map",
-    "30.js.map": "/30.js.map"
+    "881.js.map": "/881.js.map"
   },
   "entrypoints": [
-    "30.js",
+    "881.js",
     "main.css",
     "main.js",
     "static/css/main.b263c317.css"
