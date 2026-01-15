@@ -2,7 +2,7 @@
   "files": {
     "main.css": "/static/css/main.29328ae9.css",
     "main.js": "/main.js",
-    "620.js": "/620.js",
+    "937.js": "/937.js",
     "meta.png": "/meta.png",
     "season2-background.png": "/season2-background..png",
     "background.png": "/background..png",
@@ -65,19 +65,19 @@
     "avatar-space.png": "/avatar-space..png",
     "avatar-planet.png": "/avatar-planet..png",
     "avatar-fire.png": "/avatar-fire..png",
+    "index.html": "/index.html",
     "favicon.ico": "/favicon.ico",
     "favicon-96x96.png": "/favicon-96x96.png",
-    "index.html": "/index.html",
     "governance.png": "/governance..png",
     "ambire-logo-small.png": "/ambire-logo-small..png",
     "style.css": "/style.css",
     "main.css.map": "/main.css.map",
     "main.js.map": "/main.js.map",
     "main.29328ae9.css.map": "/static/css/main.29328ae9.css.map",
-    "620.js.map": "/620.js.map"
+    "937.js.map": "/937.js.map"
   },
   "entrypoints": [
-    "620.js",
+    "937.js",
     "main.css",
     "main.js",
     "static/css/main.29328ae9.css"
