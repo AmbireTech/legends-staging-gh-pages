@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.29328ae9.css",
+    "main.css": "/static/css/main.2f4c9976.css",
     "main.js": "/main.js",
-    "937.js": "/937.js",
+    "893.js": "/893.js",
     "meta.png": "/meta.png",
     "season2-background.png": "/season2-background..png",
     "background.png": "/background..png",
@@ -55,16 +55,8 @@
     "fonts/FunnelDisplay-Bold.ttf": "/fonts/FunnelDisplay-Bold.ttf",
     "FunnelDisplay-ExtraBold.ttf": "/FunnelDisplay-ExtraBold..ttf",
     "fonts/FunnelDisplay-ExtraBold.ttf": "/fonts/FunnelDisplay-ExtraBold.ttf",
-    "avatar-astronaut-man.png": "/avatar-astronaut-man..png",
     "rewards-cover.png": "/rewards-cover..png",
-    "avatar-astronaut-woman.png": "/avatar-astronaut-woman..png",
-    "avatar-space-raccoon.png": "/avatar-space-raccoon..png",
-    "avatar-space-dog.png": "/avatar-space-dog..png",
     "images/logo.png": "/images/logo.png",
-    "avatar-spread-fire.png": "/avatar-spread-fire..png",
-    "avatar-space.png": "/avatar-space..png",
-    "avatar-planet.png": "/avatar-planet..png",
-    "avatar-fire.png": "/avatar-fire..png",
     "index.html": "/index.html",
     "favicon.ico": "/favicon.ico",
     "favicon-96x96.png": "/favicon-96x96.png",
@@ -73,13 +65,13 @@
     "style.css": "/style.css",
     "main.css.map": "/main.css.map",
     "main.js.map": "/main.js.map",
-    "main.29328ae9.css.map": "/static/css/main.29328ae9.css.map",
-    "937.js.map": "/937.js.map"
+    "main.2f4c9976.css.map": "/static/css/main.2f4c9976.css.map",
+    "893.js.map": "/893.js.map"
   },
   "entrypoints": [
-    "937.js",
+    "893.js",
     "main.css",
     "main.js",
-    "static/css/main.29328ae9.css"
+    "static/css/main.2f4c9976.css"
   ]
 }
