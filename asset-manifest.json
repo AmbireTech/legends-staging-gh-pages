@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.2f4c9976.css",
+    "main.css": "/static/css/main.b263c317.css",
     "main.js": "/main.js",
-    "893.js": "/893.js",
+    "236.js": "/236.js",
+    "162.js": "/162.js",
     "meta.png": "/meta.png",
     "season2-background.png": "/season2-background..png",
     "background.png": "/background..png",
@@ -38,6 +39,15 @@
     "Poppins_900Black.ttf": "/Poppins_900Black..ttf",
     "ambire-logo-glass.png": "/ambire-logo-glass..png",
     "wallet-coin.png": "/wallet-coin..png",
+    "GeistMono_600SemiBold.ttf": "/GeistMono_600SemiBold..ttf",
+    "GeistMono_200ExtraLight.ttf": "/GeistMono_200ExtraLight..ttf",
+    "GeistMono_500Medium.ttf": "/GeistMono_500Medium..ttf",
+    "GeistMono_100Thin.ttf": "/GeistMono_100Thin..ttf",
+    "GeistMono_900Black.ttf": "/GeistMono_900Black..ttf",
+    "GeistMono_700Bold.ttf": "/GeistMono_700Bold..ttf",
+    "GeistMono_300Light.ttf": "/GeistMono_300Light..ttf",
+    "GeistMono_800ExtraBold.ttf": "/GeistMono_800ExtraBold..ttf",
+    "GeistMono_400Regular.ttf": "/GeistMono_400Regular..ttf",
     "ambire-blurred-logo.png": "/ambire-blurred-logo..png",
     "hover-background.png": "/hover-background..png",
     "favicon.svg": "/favicon.svg",
@@ -65,13 +75,14 @@
     "style.css": "/style.css",
     "main.css.map": "/main.css.map",
     "main.js.map": "/main.js.map",
-    "main.2f4c9976.css.map": "/static/css/main.2f4c9976.css.map",
-    "893.js.map": "/893.js.map"
+    "main.b263c317.css.map": "/static/css/main.b263c317.css.map",
+    "236.js.map": "/236.js.map",
+    "162.js.map": "/162.js.map"
   },
   "entrypoints": [
-    "893.js",
+    "162.js",
     "main.css",
     "main.js",
-    "static/css/main.2f4c9976.css"
+    "static/css/main.b263c317.css"
   ]
 }
