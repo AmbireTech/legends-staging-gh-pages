@@ -1,14 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.b263c317.css",
+    "main.css": "/static/css/main.418ec7f6.css",
     "main.js": "/main.js",
     "236.js": "/236.js",
-    "791.js": "/791.js",
-    "957.js": "/957.js",
-    "383.js": "/383.js",
-    "822.js": "/822.js",
+    "649.js": "/649.js",
     "meta.png": "/meta.png",
-    "season2-background.png": "/season2-background-34667b09.png",
     "background.png": "/background-44f6ec15.png",
     "Poppins_100Thin_Italic.ttf": "/Poppins_100Thin_Italic-94e1bc9c.ttf",
     "Poppins_200ExtraLight_Italic.ttf": "/Poppins_200ExtraLight_Italic-7be57366.ttf",
@@ -78,17 +74,14 @@
     "style.css": "/style.css",
     "main.css.map": "/main.css.map",
     "main.js.map": "/main.js.map",
-    "main.b263c317.css.map": "/static/css/main.b263c317.css.map",
+    "main.418ec7f6.css.map": "/static/css/main.418ec7f6.css.map",
     "236.js.map": "/236.js.map",
-    "791.js.map": "/791.js.map",
-    "957.js.map": "/957.js.map",
-    "383.js.map": "/383.js.map",
-    "822.js.map": "/822.js.map"
+    "649.js.map": "/649.js.map"
   },
   "entrypoints": [
-    "822.js",
+    "649.js",
     "main.css",
     "main.js",
-    "static/css/main.b263c317.css"
+    "static/css/main.418ec7f6.css"
   ]
 }
