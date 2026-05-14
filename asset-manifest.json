@@ -3,7 +3,7 @@
     "main.css": "/static/css/main.418ec7f6.css",
     "main.js": "/main.js",
     "236.js": "/236.js",
-    "649.js": "/649.js",
+    "474.js": "/474.js",
     "meta.png": "/meta.png",
     "background.png": "/background-44f6ec15.png",
     "Poppins_100Thin_Italic.ttf": "/Poppins_100Thin_Italic-94e1bc9c.ttf",
@@ -50,6 +50,7 @@
     "ambire-blurred-logo.png": "/ambire-blurred-logo-43574488.png",
     "hover-background.png": "/hover-background-256f4bc6.png",
     "favicon.svg": "/favicon.svg",
+    "images/logo.png": "/images/logo.png",
     "rewards-cover-image.png": "/rewards-cover-image-991faf76.png",
     "ambire-connect-icon.png": "/ambire-connect-icon.png",
     "FunnelDisplay-Regular.ttf": "/FunnelDisplay-Regular-c924558b.ttf",
@@ -65,7 +66,6 @@
     "FunnelDisplay-ExtraBold.ttf": "/FunnelDisplay-ExtraBold-30a7d23c.ttf",
     "fonts/FunnelDisplay-ExtraBold.ttf": "/fonts/FunnelDisplay-ExtraBold.ttf",
     "rewards-cover.png": "/rewards-cover-974e5ed1.png",
-    "images/logo.png": "/images/logo.png",
     "index.html": "/index.html",
     "favicon.ico": "/favicon.ico",
     "favicon-96x96.png": "/favicon-96x96.png",
@@ -76,10 +76,10 @@
     "main.js.map": "/main.js.map",
     "main.418ec7f6.css.map": "/static/css/main.418ec7f6.css.map",
     "236.js.map": "/236.js.map",
-    "649.js.map": "/649.js.map"
+    "474.js.map": "/474.js.map"
   },
   "entrypoints": [
-    "649.js",
+    "474.js",
     "main.css",
     "main.js",
     "static/css/main.418ec7f6.css"
